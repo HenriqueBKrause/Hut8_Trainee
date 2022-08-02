@@ -4,19 +4,24 @@
 //Sendo a mais simples no arquivo checkpoint4.js e a mais complexa no arquivo checkpoint5.js
 
 let userimput = require('prompt-sync')();
-console.log("Os usuarios disponiveis são: \n 1-Henrique \n 2-Fernando \n 3-Gabriel");
-console.log("Digite o número do seu usuário: ");
+
+    console.log("Os usuarios disponiveis são: \n 1-Henrique \n 2-Fernando \n 3-Gabriel");
+    console.log("Digite o número do seu usuário: ");
+
 var selection=userimput();
 
 var user = [
     { name: "Henrique Borges Krause", 
-    project: [{ name: "Processo seletivo", start: "23/12/2002" }] },
+    project: [{ name: "Processo seletivo", start: "23/12/2002" }] 
+    },
    
     { name: "Fernando Alvarenga", 
-    project: [{ name: "Hut8", start: "01/08/2022" }] },
+    project: [{ name: "Hut8", start: "01/08/2022" }] 
+    },
    
     { name: "Gabriel Toledo", 
-    project: [{ name: "Formação Otterwise", start: "01/08/2022" }] }
+    project: [{ name: "Formação Otterwise", start: "01/08/2022" }] 
+    }
 ]
 
 if (selection == 1) {
