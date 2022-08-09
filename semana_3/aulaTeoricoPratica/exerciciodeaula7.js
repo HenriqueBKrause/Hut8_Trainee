@@ -23,4 +23,3 @@ function media(notas) {
     return soma / notas.length;
 }   
 console.log("A média aritmética é: " + media(notas));
-
