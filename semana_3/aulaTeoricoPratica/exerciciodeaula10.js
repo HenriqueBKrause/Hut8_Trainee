@@ -10,12 +10,6 @@
 
 
 
-//importando prompt
-const optionimput = require('prompt-sync')();
-
-
-
-
 //array dos funcionarios
 const funcionarios = [  { nome:"João", idade: 30, salario: 15000, senioridade:"senior" },
 
