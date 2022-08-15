@@ -9,13 +9,13 @@ const alunos = [
         nome:"Lucas" ,notas: [9],
     },
     {
-        nome:"Baitaca" ,notas: [0],
+        nome:"Fernando" ,notas: [0],
     },
     {
-        nome: "Gabriel Toledo" ,notas: [9],
+        nome: "Gabriel" ,notas: [9],
     },
     {
-        nome:"Mano lima" ,notas: [0],
+        nome:"Junior" ,notas: [0],
     },
 ]
  
