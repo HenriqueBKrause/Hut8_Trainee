@@ -20,4 +20,5 @@ const formatarPessoa = (pessoa) => {
     return `${pessoa.nome} - ${formatarCpf(pessoa.cpf)} - ${formatarTelefone(pessoa.telefone)}`
 }
 
-
+console.log("Pessoas:")
+pessoa.forEach(pessoa => console.log(formatarPessoa(pessoa)))
