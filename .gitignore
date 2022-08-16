@@ -57,3 +57,6 @@ semana_4/node_modules/prompt-sync/index.js
 semana_4/node_modules/ansi-regex/readme.md
 semana_4/node_modules/ansi-regex/license
 .gitignore
+semana_4/node_modules/.package-lock.json
+semana_4/package-lock.json
+semana_4/package.json
