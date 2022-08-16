@@ -1,4 +1,4 @@
-// Dado um array de nomes, faça umprograma que tenhacomo entrada um valor à ser
+// Dado um array de nomes, faça um programa que tenhacomo entrada um valor à ser
 // pesquisado e retorne se o nome existe ou não noarray.
 
 const name = [ 'Juliana', 'Pedro', 'Regina', 'João', 'Patrícia', 'Gabriel', 'Carlos', 'Carla' ];
